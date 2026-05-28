@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+.env
+__pycache__
+.pytest_cache
+.DS_Store
+*.db
+*.pyc
+node_modules
+.vscode
+.idea
